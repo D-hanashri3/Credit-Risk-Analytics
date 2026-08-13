@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Credit Risk Analytics Dashboard](IMAGE/dashboard.png)
+![Credit Risk Analytics Dashboard](Dashboard.png)
 
 ------------------------------------------------------------------------
 
